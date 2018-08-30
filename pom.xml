@@ -107,7 +107,7 @@
     <profile>
         <id>sonar</id>
         <properties>
-        <sonar.host.url>http://13.251.223.160:9000</sonar.host.url>
+        <sonar.host.url>http://13.251.143.66:9000</sonar.host.url>
             </properties>
         </profile>
     </profiles>
